@@ -270,6 +270,9 @@ main {
       text-transform: uppercase;
       font-size: 2em;
 }
+.bio-name {
+  color: #33cc33;
+}
 .bio-copy {
   width: 100%;
   color: #222;
