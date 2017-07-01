@@ -271,7 +271,13 @@ main {
       font-size: 2em;
 }
 .bio-name {
+<<<<<<< HEAD
   color: #33cc33;
+=======
+  width: 100%;
+  color:#33cc33;
+  text-align: left;
+>>>>>>> gh-pages
 }
 .bio-copy {
   width: 100%;
