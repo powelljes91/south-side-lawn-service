@@ -253,26 +253,7 @@ main {
     text-align: center;
 }
 
-<<<<<<< HEAD
-#bio-img-jared {
-  background: url('../img/jared-bio.png');
-}
 
-#bio-img-taylor {
-  background: url('../img/taylor-bio.png');
-}
-#bio-img-jessie {
-  background: url('../img/jessie-bio.png');
-}
-
-#team-img-joe,
-#team-img-jared,
-#team-img-taylor{
-    background-position: center;
-    background-repeat: no-repeat;
-}
-=======
->>>>>>> gh-pages
 /***** CONTACT *****/
 #contact {
     width: 100%;
@@ -541,8 +522,7 @@ main {
   #contact {
       width: 100%;
       clear:both;
-      padding: 0;
-      margin: 0;
+      padding: 10px 0;
   }
 
   #contact-img{
