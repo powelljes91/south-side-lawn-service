@@ -319,12 +319,14 @@ main {
 #bio-img-taylor {
   background: url('../img/taylor-bio.png');
 }
+#bio-img-jessie {
+  background: url('../img/jessie-bio.png');
+}
 
 #team-img-joe,
 #team-img-jared,
 #team-img-taylor{
     background-position: center;
-    background-size: cover;
     background-repeat: no-repeat;
 }
 /***** CONTACT *****/
