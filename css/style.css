@@ -503,8 +503,8 @@ main {
           text-align: center;
         }
         .about-copy p {
-            width: 50%;
-            margin: 0 0 50px;
+            width: 45%;
+            margin: 0 3px 50px;
             height: auto;
             text-align: left;
             display: inline-block;
@@ -514,7 +514,7 @@ main {
               display: inline-block;
             }
             #about-copy-2 {
-              float:left;
+              float:right;
               display: inline-block;
             }
 
